@@ -1,5 +1,6 @@
 import P5 from 'p5'
 import './style.css'
+
 const sketch = (p5: P5) => {
 	const W = window.innerWidth
 	const H = window.innerHeight
